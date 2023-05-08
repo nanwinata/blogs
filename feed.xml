@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>Stay Home , Stay Safe &amp; Stay Alive</title>
+    <link href="https://nanwinata.github.io/blogs/feed.xml" rel="self" />
+    <link href="https://nanwinata.github.io/blogs" />
+    <updated>2023-05-08T11:14:15+07:00</updated>
+    <author>
+        <name>Nan</name>
+    </author>
+    <id>https://nanwinata.github.io/blogs</id>
+
+    <entry>
+        <title>test page</title>
+        <author>
+            <name>Nan</name>
+        </author>
+        <link href="https://nanwinata.github.io/blogs/test-page.html"/>
+        <id>https://nanwinata.github.io/blogs/test-page.html</id>
+
+        <updated>2023-05-08T11:14:15+07:00</updated>
+            <summary>
+                <![CDATA[
+                    testt
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>testt</p>
+            ]]>
+        </content>
+    </entry>
+</feed>
